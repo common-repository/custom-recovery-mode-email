@@ -1,0 +1,132 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Recovery Mode Email\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-29 16:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.1"
+
+#: dm-rme.php:48
+msgctxt "Plugin name"
+msgid ""
+"<em>Custom Recovery Mode Email</em> has been deactivated because WordPress "
+"Multisite is not supported yet!"
+msgstr ""
+
+#: dm-rme.php:48
+msgid "Dismiss this notice."
+msgstr ""
+
+#. parent slug
+#. page title
+#: dm-rme-settings.php:18 dm-rme-settings.php:19 dm-rme-settings.php:29
+#: dm-rme-settings.php:30 dm-rme-settings.php:124
+msgid "Recovery Mode Email"
+msgstr ""
+
+#: dm-rme-settings.php:78
+msgid "Your preferences have been saved!"
+msgstr ""
+
+#: dm-rme-settings.php:82
+msgid "Error: The data you have entered is not valid!"
+msgstr ""
+
+#: dm-rme-settings.php:115
+msgid "Custom Recovery Mode Email Settings"
+msgstr ""
+
+#: dm-rme-settings.php:125
+msgid ""
+"Set the recipient address which will be used when WordPress sends an email "
+"if a Fatal Error occurred."
+msgstr ""
+
+#: dm-rme-settings.php:130
+msgid "Recipient Address"
+msgstr ""
+
+#: dm-rme-settings.php:132
+msgid "recipient"
+msgstr ""
+
+#: dm-rme-settings.php:133 dm-rme-settings.php:173
+msgid "Ex. name"
+msgstr ""
+
+#: dm-rme-settings.php:141
+msgid "Recovery Mode Email Rate Limit"
+msgstr ""
+
+#: dm-rme-settings.php:142
+msgid "Set the rate limit between sending new recovery mode email links."
+msgstr ""
+
+#: dm-rme-settings.php:147
+msgid "Number of days"
+msgstr ""
+
+#: dm-rme-settings.php:150
+msgid ""
+"Choose the number of days. If you prefer a shorter time, you can set the "
+"interval to: <em>1 hour = 0.04166</em> or <em>1 minute = 0.0006945</em>."
+msgstr ""
+
+#: dm-rme-settings.php:158
+msgid "Mail Sender Settings"
+msgstr ""
+
+#: dm-rme-settings.php:159
+msgid "Set default Sender Name and Email."
+msgstr ""
+
+#: dm-rme-settings.php:164
+msgid "Mail Sender Name"
+msgstr ""
+
+#: dm-rme-settings.php:166
+msgid "Website Name"
+msgstr ""
+
+#: dm-rme-settings.php:170
+msgid "Mail Sender Email"
+msgstr ""
+
+#: dm-rme-settings.php:172
+msgid "sender"
+msgstr ""
+
+#: dm-rme-settings.php:182
+msgid "Save Changes"
+msgstr ""
+
+#. Name of the plugin
+msgid "Custom Recovery Mode Email"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Change the recipient address when WordPress sends an email if a Fatal Error "
+"occurs."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.dixitalmedia.com/#que-hacemos"
+msgstr ""
+
+#. Author of the plugin
+msgid "jairoochoa"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.dixitalmedia.com"
+msgstr ""
